@@ -9,4 +9,3 @@ Deployment Plan
 3. Test new feature on staging sever thoroughly.
 4. $git push productionServer master
 5. Test new feature again, if all is well announce update.
- 
