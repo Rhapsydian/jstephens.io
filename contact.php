@@ -59,7 +59,6 @@
     <h1>Contact Me</h1>
     <div class="row">
         <div class="col-md-6 col-md-offset-3">
-            <div class="alert alert-info"><?php var_dump($_POST); ?></div>
             <?php
                 if($allEntered == false)
                 {
